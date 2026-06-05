@@ -7,46 +7,33 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+---
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 🚀 Feature Request
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### 📌 Given (배경)
+<!-- 현재 문제점이나 개선이 필요한 점을 설명해주세요. -->
+- 현재 (어떤 기능 또는 UI/UX)이 부족하거나 개선이 필요함.
+- 사용자 입장에서 (어떤 불편함)이 발생함.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### 🔄 When (요구 사항)
+<!-- 제안하는 기능이 어떤 상황에서 필요한지 설명해주세요. -->
+1. 사용자가 (특정 작업)을 수행할 때.
+2. (어떤 트리거 또는 이벤트)가 발생할 때.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+### ✅ Then (기대 효과)
+<!-- 기대하는 결과나 개선점을 설명해주세요. -->
+- **Expected Behavior (기대 동작)**: (예: 사용자가 클릭하면 모달 창이 나타난다.)
+- **Benefit (기능의 장점)**: (예: 사용자 경험이 개선되고, 접근성이 향상된다.)
 
-**Additional context**
-Add any other context about the problem here.
-
-
-
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### 🖥️ Additional Details (추가 정보)
+<!-- 관련 스크린샷, 참고 링크, 또는 추가 설명이 필요하면 작성해주세요. -->
+- 참고 자료: [링크](https://example.com)
+- 관련 기능: (예: 로그인, 검색 기능 등)
